@@ -1,0 +1,121 @@
+* {
+	margin:0;
+	padding: 0;
+}
+
+#iniciales {
+margin: auto;
+width: 140px;
+height: 110px;
+}
+
+#contenedor {
+
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	text-align: center;
+}
+
+#datos {
+	width: 420px;
+	height: 110px;
+	background: rgba(73,155,234,0.6);
+	margin: auto;
+	color: white;
+	text-align: left;
+	padding: 10px;
+		-webkit-box-shadow: 10px 10px 5px 0px  rgba(212,208,212,1);
+-moz-box-shadow: 10px 10px 5px 0px rgba(212,208,212,1);
+box-shadow: 10px 10px 5px 0px  rgba(212,208,212,1);
+
+}
+
+#navegador {
+
+	width: 420px;
+	height: 60px;
+	background: rgba(73,155,234,0.6);
+	margin: auto;
+	color: white;
+
+
+	-webkit-box-shadow: 10px 10px 5px 0px  rgba(212,208,212,1);
+-moz-box-shadow: 10px 10px 5px 0px rgba(212,208,212,1);
+box-shadow: 10px 10px 5px 0px  rgba(212,208,212,1);
+
+}
+
+nav ul li {
+
+	display: block;
+	float: left;
+	text-decoration: none;
+	font-size: 22px;
+	
+	margin: 20px;
+}
+a {
+	text-decoration: none;
+	color: white;
+	font-weight: bolder;
+	
+
+}
+
+
+#foto {
+	width: 150px;
+	height: 220px;
+	
+	margin: auto;
+
+
+}
+
+#perfil {
+	width: 360px;
+	height: auto;
+	background: rgba(73,155,234,0.6);
+	margin: auto;
+	text-align: left;
+	padding: 20px;
+	padding-left: 30px;
+	-webkit-box-shadow: 10px 10px 5px 0px  rgba(212,208,212,1);
+-moz-box-shadow: 10px 10px 5px 0px rgba(212,208,212,1);
+box-shadow: 10px 10px 5px 0px  rgba(212,208,212,1);
+}
+#perfil1 {
+	width: 360px;
+	
+	margin: auto;
+	text-align: left;
+	padding: 20px;
+	padding-left: 30px;
+	-webkit-box-shadow: 10px 10px 5px 0px  rgba(212,208,212,1);
+-moz-box-shadow: 10px 10px 5px 0px rgba(212,208,212,1);
+box-shadow: 10px 10px 5px 0px  rgba(212,208,212,1);
+}
+
+#footer {
+	width: 410px;
+	height: 150px;
+	background: rgba(73,155,234,0.6);
+	margin: auto;
+	padding-top: 10px;
+	margin-bottom: 50px;
+	font-weight: bolder;
+		-webkit-box-shadow: 10px 10px 5px 0px  rgba(212,208,212,1);
+-moz-box-shadow: 10px 10px 5px 0px rgba(212,208,212,1);
+box-shadow: 10px 10px 5px 0px  rgba(212,208,212,1);
+}
+
+footer ul li{
+	display: block;
+	float: left;
+	text-decoration: none;
+	font-size: 22px;
+	
+	margin: 20px;
+}
+
